@@ -7,8 +7,11 @@ header{
   background-color: #6279B8;
   height: 100px;
   width: 100%;
-  }
-
+ min-height: 200px;
+ text-align: center;
+ vertical-align: middle;
+ width: 100%;
+}
 footer{
   background-color: #6279B8;
   height: auto;
@@ -21,9 +24,9 @@ h1 {
   font-size: 72px;
   width: 100%;
   color: #AFC2D5;
+  margin: 0;
   font-family: "Times new roman";
-  font-style: normal;
-text-Align: center;
+padding-top: 50px;
 }
 /* Make your p tag a different color and italic */
 p {
